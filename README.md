@@ -1,21 +1,22 @@
-# password strenght checking   
+# password strength checking   
 ## Table of content  
 * [About the project](#about-the-project)  
 * [Technologies](#technologies)  
 * [Features](#features)  
 * [Setup](#setup)  
 ## About the project  
->Small description about the project  
+>Check for the strength of a password .  
 ## Technologies  
-* **tech1**  
-* **tech2**  
-* **tech3**  
+* **html**  
+* **css**  
+* **tailwindcss**
+**javascript**  
 ## Features  
 * Background image become more visible with a stronger password . 
 
 ## Setup
-short setup description  
 ```shell  
-#setup shell cmd  
-$git clone git@github...  
+$git clone https://github.com/0script/password-strength-check    
+$cd password-strength-check/
+$firefox index.html
 ```
